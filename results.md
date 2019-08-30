@@ -1,3 +1,5 @@
+Repository | Nr. of Variables | Nr. of inferred types | Unknown Calls | Nr. of Calls
+-----------|------------------|-----------------------|---------------|–------------
 amazon_api  |  56  | 26.79 % |  41.18 % |  34 
 arouter  |  163  | 23.93 % |  38.96 % |  154 
 atom_feed  |  115  | 15.65 % |  34.84 % |  66 
